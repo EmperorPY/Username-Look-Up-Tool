@@ -17,7 +17,6 @@ A Python program that uses APIs to check whether a username exists on Minecraft 
 - How to use APIs with Python
 - How to use `requests.get()` and HTTP status codes
 - How to receive and use JSON data
-- How to use functions, loops and menus
 
 - **How to run**
 
